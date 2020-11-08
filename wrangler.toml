@@ -1,0 +1,6 @@
+name = "my-project"
+type = "javascript"
+account_id = "c6c368978ee3099675949ce74b1bc77e"
+workers_dev = true
+route = ""
+zone_id = ""
